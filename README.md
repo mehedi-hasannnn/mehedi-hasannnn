@@ -1,10 +1,18 @@
-# 💫 About Me:
-  🔭 I’m currently working on **Sync Force** – an employee management system platform using MERN stack  <br> 
-  🤝 I’m looking to collaborate on **full-stack web development projects**, especially those using **React, Node.js, and MongoDB**  <br> 
-  ❓ I’m looking for help with **optimizing backend performance and Docker deployment**  <br> 
-  🌱 I’m currently learning **TypeScript, Redux Toolkit, Docker, and clean architecture principles**  <br> 
-  💬 Ask me about **MERN Stack, Firebase Authentication, RESTful APIs, and secure backend development**  <br> 
+<div style="display: flex; align-items: flex-start;">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="150" style="margin-right: 20px;" />
+  <div>
+
+  # 💫 About Me  
+  🔭 I’m currently working on **Sync Force** – an employee management system platform using MERN stack  <br>  
+  🤝 I’m looking to collaborate on **full-stack web development projects**, especially those using **React, Node.js, and MongoDB**  <br>  
+  ❓ I’m looking for help with **optimizing backend performance and Docker deployment**  <br>  
+  🌱 I’m currently learning **TypeScript, Redux Toolkit, Docker, and clean architecture principles**  <br>  
+  💬 Ask me about **MERN Stack, Firebase Authentication, RESTful APIs, and secure backend development**  <br>  
   ⚡ Fun fact: I love turning real-world problems into smart, elegant web applications – and debugging is my therapy 😄
+
+  </div>
+</div>
+
 
 
 ###
