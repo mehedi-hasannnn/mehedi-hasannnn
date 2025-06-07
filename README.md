@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Mehedi Hasan]
+# 👋 Hi, I'm Mehedi Hasan
 **Full Stack Developer | MERN Stack Enthusiast | Problem Solver**
 
 <div style="display: flex; align-items: flex-start; gap: 20px;">
