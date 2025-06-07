@@ -1,5 +1,26 @@
-# 💫 About Me:
-🔭 I’m currently working on **Sync Force** – an employee management system platform using MERN stack  <br> 🤝 I’m looking to collaborate on **full-stack web development projects**, especially those using **React, Node.js, and MongoDB**  <br> ❓ I’m looking for help with **optimizing backend performance and Docker deployment**  <br> 🌱 I’m currently learning **TypeScript, Redux Toolkit, Docker, and clean architecture principles**  <br> 💬 Ask me about **MERN Stack, Firebase Authentication, RESTful APIs, and secure backend development**  <br> ⚡ Fun fact: I love turning real-world problems into smart, elegant web applications – and debugging is my therapy 😄  <br>
+<table>
+  <tr>
+    <td valign="top" width="70%">
+      
+  # 💫 About Me:
+  🔭 I’m currently working on **Sync Force** – an employee management system platform using MERN stack  <br> 
+  🤝 I’m looking to collaborate on **full-stack web development projects**, especially those using **React, Node.js, and MongoDB**  <br> 
+  ❓ I’m looking for help with **optimizing backend performance and Docker deployment**  <br> 
+  🌱 I’m currently learning **TypeScript, Redux Toolkit, Docker, and clean architecture principles**  <br> 
+  💬 Ask me about **MERN Stack, Firebase Authentication, RESTful APIs, and secure backend development**  <br> 
+  ⚡ Fun fact: I love turning real-world problems into smart, elegant web applications – and debugging is my therapy 😄
+
+    </td>
+    <td align="right" valign="top" width="30%">
+      <div align="center">
+        <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /><br><br>
+        <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  /><br><br>
+        <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+      </div>
+    </td>
+  </tr>
+</table>
+
 
 ###
 <div align="center">
