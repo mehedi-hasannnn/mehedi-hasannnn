@@ -1,16 +1,20 @@
-<div style="display: flex; align-items: flex-start;">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="150" style="margin-right: 20px;" />
-  <div>
-
-  # 💫 About Me  
-  🔭 I’m currently working on **Sync Force** – an employee management system platform using MERN stack  <br>  
-  🤝 I’m looking to collaborate on **full-stack web development projects**, especially those using **React, Node.js, and MongoDB**  <br>  
-  ❓ I’m looking for help with **optimizing backend performance and Docker deployment**  <br>  
-  🌱 I’m currently learning **TypeScript, Redux Toolkit, Docker, and clean architecture principles**  <br>  
-  💬 Ask me about **MERN Stack, Firebase Authentication, RESTful APIs, and secure backend development**  <br>  
-  ⚡ Fun fact: I love turning real-world problems into smart, elegant web applications – and debugging is my therapy 😄
-
+<div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap;">
+  
+  <div style="flex: 1 1 70%; min-width: 250px;">
+    <h2>💫 About Me</h2>
+    <p>🔭 I’m currently working on <strong>Sync Force</strong> – an employee management system platform using MERN stack</p>
+    <p>🤝 I’m looking to collaborate on <strong>full-stack web development projects</strong>, especially those using <strong>React, Node.js, and MongoDB</strong></p>
+    <p>❓ I’m looking for help with <strong>optimizing backend performance and Docker deployment</strong></p>
+    <p>🌱 I’m currently learning <strong>TypeScript, Redux Toolkit, Docker, and clean architecture principles</strong></p>
+    <p>💬 Ask me about <strong>MERN Stack, Firebase Authentication, RESTful APIs, and secure backend development</strong></p>
+    <p>⚡ Fun fact: I love turning real-world problems into smart, elegant web applications – and debugging is my therapy 😄</p>
   </div>
+
+  <!-- GIF section (30%) -->
+  <div style="flex: 1 1 30%; min-width: 150px; text-align: center;">
+    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="150" alt="GIF animation" />
+  </div>
+
 </div>
 
 
