@@ -1,6 +1,15 @@
-<div style="display: flex; align-items: flex-start; gap: 20px;">
-  <div style="flex: 1;">
-    
+<div align="center">
+
+# 👋 Hi, I'm [Mehedi Hasan]
+**Full Stack Developer | MERN Stack Enthusiast | Problem Solver**
+
+</div>
+
+<div>
+  <table>
+    <tr>
+      <td width="60%">
+        
 ## 💫 About Me
 
 🔭 I'm currently working on **Sync Force** – an employee management system platform using MERN stack
@@ -15,10 +24,14 @@
 
 ⚡ Fun fact: I love turning real-world problems into smart, elegant web applications – and debugging is my therapy 😄
 
-  </div>
-  <div style="flex-shrink: 0;">
-    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="150" alt="Coding animation" />
-  </div>
+      </td>
+      <td width="40%">
+        <div align="center">
+          <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="150" alt="Coding animation" />
+        </div>
+      </td>
+    </tr>
+  </table>
 </div>
 
 
