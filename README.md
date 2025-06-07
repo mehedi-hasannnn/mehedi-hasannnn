@@ -1,3 +1,10 @@
+<div align="center">
+
+# 👋 Hi, I'm [Mehedi Hasan]
+**Full Stack Developer | MERN Stack Enthusiast | Problem Solver**
+
+</div>
+
 <div style="display: flex; align-items: flex-start; gap: 20px;">
   <div style="flex: 1;">
     
